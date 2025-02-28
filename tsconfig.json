@@ -4,8 +4,8 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@codingfer/calendar/*": [
-        "projects/calendar/src/lib/*",
+      "@codingfer/calendar": [
+        "projects/calendar/src/public-api.ts",
       ]
     },
     "outDir": "./dist/out-tsc",

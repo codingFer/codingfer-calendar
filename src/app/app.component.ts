@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 import {RouterOutlet} from '@angular/router';
-import {CalendarComponent} from "@codingfer/calendar/calendar.component";
+import {CalendarComponent} from "@codingfer/calendar";
 
 @Component({
   selector: 'app-root',
